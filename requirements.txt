@@ -1,0 +1,116 @@
+affine==2.3.0
+appdirs==1.4.4
+appnope==0.1.2
+argon2-cffi==21.1.0
+attrs @ file:///tmp/build/80754af9/attrs_1620827162558/work
+backcall==0.2.0
+bleach==4.1.0
+brotlipy==0.7.0
+CacheControl @ file:///Users/ktietz/demo/mc3/conda-bld/cachecontrol_1629143824253/work
+cachy @ file:///Users/ktietz/demo/mc3/conda-bld/cachy_1629144064963/work
+Cartopy==0.20.1
+certifi==2021.10.8
+cffi @ file:///opt/concourse/worker/volumes/live/506ff722-306a-4142-6379-cfea99aadbed/volume/cffi_1625814701363/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+cleo @ file:///tmp/build/80754af9/cleo_1605812027890/work
+click==8.0.3
+click-plugins==1.1.1
+cligj==0.7.2
+clikit @ file:///tmp/build/80754af9/clikit_1596900189978/work
+crashtest @ file:///tmp/build/80754af9/crashtest_1599273562811/work
+cryptography @ file:///opt/concourse/worker/volumes/live/aaebf160-6f21-467e-6bfa-1dd2605e4a9c/volume/cryptography_1635366587701/work
+cycler==0.11.0
+debugpy==1.5.1
+decorator==5.1.0
+defusedxml==0.7.1
+distlib @ file:///tmp/build/80754af9/distlib_1622544193819/work
+entrypoints==0.3
+filelock @ file:///tmp/build/80754af9/filelock_1635402558181/work
+Fiona==1.8.20
+fonttools==4.28.2
+geopandas==0.10.2
+html5lib @ file:///Users/ktietz/demo/mc3/conda-bld/html5lib_1629144453894/work
+idna @ file:///tmp/build/80754af9/idna_1622654382723/work
+importlib-metadata @ file:///opt/concourse/worker/volumes/live/75f9b854-f895-4cdc-46a8-b054eddb9b3f/volume/importlib-metadata_1631916701668/work
+ipykernel==6.5.1
+ipython==7.29.0
+ipython-genutils==0.2.0
+ipywidgets==7.6.5
+jedi==0.18.1
+Jinja2==3.0.3
+joblib==1.1.0
+jsonschema @ file:///Users/ktietz/demo/mc3/conda-bld/jsonschema_1630511932244/work
+jupyter-client==7.1.0
+jupyter-core==4.9.1
+jupyterlab-pygments==0.1.2
+jupyterlab-widgets==1.0.2
+keyring @ file:///opt/concourse/worker/volumes/live/c80efe9e-2279-4aee-430e-bf9f823010f6/volume/keyring_1615498269961/work
+kiwisolver==1.3.2
+lockfile==0.12.2
+mapclassify==2.4.3
+MarkupSafe==2.0.1
+matplotlib==3.5.0
+matplotlib-inline==0.1.3
+mistune==0.8.4
+msgpack @ file:///opt/concourse/worker/volumes/live/d7400f3a-e5de-4e85-5d4c-0c984c648401/volume/msgpack-python_1612287157185/work
+munch==2.5.0
+nbclient==0.5.9
+nbconvert==6.3.0
+nbformat==5.1.3
+nest-asyncio==1.5.1
+networkx==2.6.3
+notebook==6.4.6
+numpy==1.21.4
+packaging @ file:///tmp/build/80754af9/packaging_1611952188834/work
+pandas==1.3.4
+pandocfilters==1.5.0
+parso==0.8.2
+pastel @ file:///tmp/build/80754af9/pastel_1600457269988/work
+pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+pickleshare==0.7.5
+Pillow==8.4.0
+pkginfo==1.7.1
+poetry @ file:///opt/concourse/worker/volumes/live/5e00b99b-f350-44da-4cf2-e7080f09c09a/volume/poetry_1618437273294/work
+poetry-core @ file:///tmp/build/80754af9/poetry-core_1618088441164/work
+prometheus-client==0.12.0
+prompt-toolkit==3.0.22
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pydeck==0.7.1
+Pygments==2.10.0
+pylev==1.3.0
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1635333100036/work
+pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
+pyproj==3.3.0
+pyrsistent @ file:///opt/concourse/worker/volumes/live/2ee30965-527a-4a7c-5d00-da5732e8cff3/volume/pyrsistent_1615493717083/work
+pyshp==2.1.3
+PySocks @ file:///opt/concourse/worker/volumes/live/85a5b906-0e08-41d9-6f59-084cee4e9492/volume/pysocks_1594394636991/work
+python-dateutil==2.8.2
+pytz==2021.3
+pyzmq==22.3.0
+rasterio==1.2.10
+requests @ file:///tmp/build/80754af9/requests_1629994808627/work
+requests-toolbelt @ file:///Users/ktietz/demo/mc3/conda-bld/requests-toolbelt_1629456163440/work
+rioxarray==0.8.0
+scikit-learn==1.0.1
+scipy==1.7.2
+Send2Trash==1.8.0
+setuptools-scm==6.3.2
+Shapely==1.8.0
+shellingham @ file:///Users/ktietz/demo/mc3/conda-bld/shellingham_1629144685686/work
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+snuggs==1.4.7
+terminado==0.12.1
+testpath==0.5.0
+threadpoolctl==3.0.0
+tomli==1.2.2
+tomlkit @ file:///opt/concourse/worker/volumes/live/13f1a947-01e9-4c18-51ec-4c105a4973a1/volume/tomlkit_1626771212675/work
+tornado==6.1
+traitlets==5.1.1
+urllib3==1.26.7
+virtualenv @ file:///opt/concourse/worker/volumes/live/fc0300b2-54f0-4d10-40f0-341f996ca70e/volume/virtualenv_1620977666291/work
+wcwidth==0.2.5
+webencodings==0.5.1
+widgetsnbextension==3.5.2
+xarray==0.20.1
+zipp @ file:///tmp/build/80754af9/zipp_1633618647012/work
